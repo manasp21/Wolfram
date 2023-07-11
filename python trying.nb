@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    533735,      10194]
-NotebookOptionsPosition[    530338,      10130]
-NotebookOutlinePosition[    530768,      10147]
-CellTagsIndexPosition[    530725,      10144]
+NotebookDataLength[    533982,      10203]
+NotebookOptionsPosition[    530585,      10139]
+NotebookOutlinePosition[    531015,      10156]
+CellTagsIndexPosition[    530972,      10153]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -31,12 +31,12 @@ from ipywidgets import interactive, Label, HTML, HBox, VBox\
 \>", "ExternalLanguage",
  CellEvaluationLanguage->"Python",
  CellChangeTimes->{{3.8980602329747458`*^9, 3.898060244779697*^9}},
- CellLabel->"In[26]:=",ExpressionUUID->"4e884143-9daa-4b9e-9f8c-c59d4683e516"],
+ CellLabel->"In[42]:=",ExpressionUUID->"4e884143-9daa-4b9e-9f8c-c59d4683e516"],
 
 Cell[BoxData[""], "Input",
  CellChangeTimes->{{3.898062755107272*^9, 3.898062755670915*^9}, {
   3.898062888345292*^9, 3.8980628890288687`*^9}},
- CellLabel->"In[27]:=",ExpressionUUID->"b3acf91f-68d1-4bdb-ad56-044920a0f5a5"],
+ CellLabel->"In[43]:=",ExpressionUUID->"b3acf91f-68d1-4bdb-ad56-044920a0f5a5"],
 
 Cell[CellGroupData[{
 
@@ -81,7 +81,7 @@ n1*np.cos(theta2))
 \>", "ExternalLanguage",
  CellEvaluationLanguage->"Python",
  CellChangeTimes->{{3.898060250812651*^9, 3.8980602578072386`*^9}},
- CellLabel->"In[28]:=",ExpressionUUID->"29abfc36-cf08-4b21-9b5b-cec82ce59bbd"],
+ CellLabel->"In[44]:=",ExpressionUUID->"29abfc36-cf08-4b21-9b5b-cec82ce59bbd"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -613,13 +613,13 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"91.385856`", "\"MB\"", "megabytes", 
+                    TemplateBox[{"111.169536`", "\"MB\"", "megabytes", 
                     "\"Megabytes\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Threads: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
-                    TagBox["21", "SummaryItem"]}]}, {
+                    TagBox["18", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Start Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
@@ -644,7 +644,7 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.21875`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.375`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
@@ -652,14 +652,14 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.203125`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.3125`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Real Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
                     TagBox[
-                    TemplateBox[{"12", "17.`5.", 
+                    TemplateBox[{"13", "59.`5.", 
                     RowBox[{"\[ThinSpace]", "\"min\""}], 
                     RowBox[{"\[ThinSpace]", "\"s\""}], "minutes,seconds", 
                     RowBox[{"{", 
@@ -1019,8 +1019,9 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
   SelectWithContents->True,
   Selectable->False]], "Output",
  CellChangeTimes->{3.8980606933846116`*^9, 3.8980620392324114`*^9, 
-  3.8980621282209926`*^9, 3.8980621600594044`*^9, 3.898062895434245*^9},
- CellLabel->"Out[28]=",ExpressionUUID->"e8212491-8145-4a70-972f-dfc9e09c000e"]
+  3.8980621282209926`*^9, 3.8980621600594044`*^9, 3.898062895434245*^9, 
+  3.8980629975258436`*^9},
+ CellLabel->"Out[44]=",ExpressionUUID->"c802e716-2829-478a-bc82-3e4010eaefba"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1052,7 +1053,7 @@ theta[:-1], theta[1:]):
  CellChangeTimes->{{3.8980603967367277`*^9, 3.8980604539858017`*^9}, {
   3.898061803028095*^9, 3.898061811181964*^9}, {3.898062167912507*^9, 
   3.8980621830067186`*^9}},
- CellLabel->"In[29]:=",ExpressionUUID->"4bba5db6-1a96-46b0-bbd5-db60f9395a4d"],
+ CellLabel->"In[45]:=",ExpressionUUID->"4bba5db6-1a96-46b0-bbd5-db60f9395a4d"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -1577,13 +1578,13 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"91.385856`", "\"MB\"", "megabytes", 
+                    TemplateBox[{"111.169536`", "\"MB\"", "megabytes", 
                     "\"Megabytes\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Threads: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
-                    TagBox["21", "SummaryItem"]}]}, {
+                    TagBox["18", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Start Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
@@ -1607,7 +1608,7 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.21875`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.375`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
@@ -1615,14 +1616,14 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.203125`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.3125`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Real Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
                     TagBox[
-                    TemplateBox[{"12", "17.`5.", 
+                    TemplateBox[{"13", "59.`5.", 
                     RowBox[{"\[ThinSpace]", "\"min\""}], 
                     RowBox[{"\[ThinSpace]", "\"s\""}], "minutes,seconds", 
                     RowBox[{"{", 
@@ -1983,8 +1984,9 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
   3.8980604545755725`*^9, 3.89806121878781*^9, 3.8980616043083644`*^9, 
    3.8980616735767517`*^9, {3.8980618090541*^9, 3.898061811626911*^9}, 
    3.898061944285739*^9, 3.8980620406211214`*^9, 3.898062125987598*^9, {
-   3.8980621658424*^9, 3.898062184703597*^9}, 3.8980628956361885`*^9},
- CellLabel->"Out[29]=",ExpressionUUID->"f4cb1de9-e6a6-4069-9ce9-8ea5535cbb3d"]
+   3.8980621658424*^9, 3.898062184703597*^9}, 3.8980628956361885`*^9, 
+   3.898062997751008*^9},
+ CellLabel->"Out[45]=",ExpressionUUID->"d3c64769-21da-47e3-b810-7ebb29bf792f"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2023,7 +2025,7 @@ np.real( n[0]*np.cos(theta[0]) )
  CellChangeTimes->{{3.8980612428651457`*^9, 3.898061247187626*^9}, {
   3.898061634932128*^9, 3.89806164125774*^9}, {3.8980622008064795`*^9, 
   3.8980622046990485`*^9}},
- CellLabel->"In[30]:=",ExpressionUUID->"6b834212-f4bd-4ad4-8a26-db617f18215b"],
+ CellLabel->"In[46]:=",ExpressionUUID->"6b834212-f4bd-4ad4-8a26-db617f18215b"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -2549,13 +2551,13 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"91.385856`", "\"MB\"", "megabytes", 
+                    TemplateBox[{"111.169536`", "\"MB\"", "megabytes", 
                     "\"Megabytes\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Threads: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
-                    TagBox["21", "SummaryItem"]}]}, {
+                    TagBox["18", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Start Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
@@ -2580,7 +2582,7 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.21875`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.375`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
@@ -2588,14 +2590,14 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.203125`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.3125`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Real Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
                     TagBox[
-                    TemplateBox[{"12", "18.`5.", 
+                    TemplateBox[{"14", "0", 
                     RowBox[{"\[ThinSpace]", "\"min\""}], 
                     RowBox[{"\[ThinSpace]", "\"s\""}], "minutes,seconds", 
                     RowBox[{"{", 
@@ -2956,8 +2958,9 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
   Selectable->False]], "Output",
  CellChangeTimes->{
   3.898061250553876*^9, {3.8980616297277327`*^9, 3.89806164221548*^9}, 
-   3.8980620289228396`*^9, 3.89806220660112*^9, 3.898062896313061*^9},
- CellLabel->"Out[30]=",ExpressionUUID->"866bb699-aaca-4605-849c-1b9328513e90"]
+   3.8980620289228396`*^9, 3.89806220660112*^9, 3.898062896313061*^9, 
+   3.898062998422658*^9},
+ CellLabel->"Out[46]=",ExpressionUUID->"67efd3b1-89de-43ee-88bb-4cdbc28f431e"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2994,7 +2997,7 @@ def get_params(thickness, n, wavelength, theta_inc):
  CellEvaluationLanguage->"Python",
  CellChangeTimes->{{3.8980617308231573`*^9, 3.8980617317313495`*^9}, {
   3.898062209176688*^9, 3.898062217742175*^9}},
- CellLabel->"In[31]:=",ExpressionUUID->"1b6573b6-228a-46ca-a289-853abcb6017a"],
+ CellLabel->"In[47]:=",ExpressionUUID->"1b6573b6-228a-46ca-a289-853abcb6017a"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -3524,13 +3527,13 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"91.385856`", "\"MB\"", "megabytes", 
+                    TemplateBox[{"111.169536`", "\"MB\"", "megabytes", 
                     "\"Megabytes\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Threads: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
-                    TagBox["21", "SummaryItem"]}]}, {
+                    TagBox["18", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Start Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
@@ -3555,7 +3558,7 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.21875`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.375`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
@@ -3563,14 +3566,14 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.203125`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.3125`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Real Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
                     TagBox[
-                    TemplateBox[{"12", "18.`5.", 
+                    TemplateBox[{"14", "0", 
                     RowBox[{"\[ThinSpace]", "\"min\""}], 
                     RowBox[{"\[ThinSpace]", "\"s\""}], "minutes,seconds", 
                     RowBox[{"{", 
@@ -3929,8 +3932,8 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
   SelectWithContents->True,
   Selectable->False]], "Output",
  CellChangeTimes->{3.898061733984166*^9, 3.8980620324006853`*^9, 
-  3.898062218883129*^9, 3.898062896504092*^9},
- CellLabel->"Out[31]=",ExpressionUUID->"2997aa70-f2fd-4077-bf0a-1b64414705d2"]
+  3.898062218883129*^9, 3.898062896504092*^9, 3.898062998641549*^9},
+ CellLabel->"Out[47]=",ExpressionUUID->"9198d356-4dee-4a4a-8c84-09516114d6e5"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -3951,7 +3954,7 @@ r_power_tm)/2, (t_power_te + t_power_tm)/2\
 \>", "ExternalLanguage",
  CellEvaluationLanguage->"Python",
  CellChangeTimes->{{3.8980622266331105`*^9, 3.898062227391514*^9}},
- CellLabel->"In[32]:=",ExpressionUUID->"65a67eb0-00c7-4408-ae02-319d1b3e5989"],
+ CellLabel->"In[48]:=",ExpressionUUID->"65a67eb0-00c7-4408-ae02-319d1b3e5989"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -4482,13 +4485,13 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"91.385856`", "\"MB\"", "megabytes", 
+                    TemplateBox[{"111.169536`", "\"MB\"", "megabytes", 
                     "\"Megabytes\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Threads: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
-                    TagBox["21", "SummaryItem"]}]}, {
+                    TagBox["18", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Start Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
@@ -4513,7 +4516,7 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.21875`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.375`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
@@ -4521,14 +4524,14 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.203125`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.3125`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Real Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
                     TagBox[
-                    TemplateBox[{"12", "18.`5.", 
+                    TemplateBox[{"14", "0", 
                     RowBox[{"\[ThinSpace]", "\"min\""}], 
                     RowBox[{"\[ThinSpace]", "\"s\""}], "minutes,seconds", 
                     RowBox[{"{", 
@@ -4887,8 +4890,9 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
   Editable->False,
   SelectWithContents->True,
   Selectable->False]], "Output",
- CellChangeTimes->{3.898062227972289*^9, 3.898062896706846*^9},
- CellLabel->"Out[32]=",ExpressionUUID->"16e918b6-7305-45f9-a15f-dcfe0ebee09b"]
+ CellChangeTimes->{3.898062227972289*^9, 3.898062896706846*^9, 
+  3.898062998733906*^9},
+ CellLabel->"Out[48]=",ExpressionUUID->"383c7995-59b1-489d-a34a-475d0dc5efb5"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -4914,7 +4918,7 @@ theta_inc_range)),
 \>", "ExternalLanguage",
  CellEvaluationLanguage->"Python",
  CellChangeTimes->{{3.898062234557683*^9, 3.8980622353314066`*^9}},
- CellLabel->"In[33]:=",ExpressionUUID->"3c6a2a16-36b6-41d5-b65b-36fc01e9c53b"],
+ CellLabel->"In[49]:=",ExpressionUUID->"3c6a2a16-36b6-41d5-b65b-36fc01e9c53b"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -5437,13 +5441,13 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"91.385856`", "\"MB\"", "megabytes", 
+                    TemplateBox[{"111.169536`", "\"MB\"", "megabytes", 
                     "\"Megabytes\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Threads: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
-                    TagBox["21", "SummaryItem"]}]}, {
+                    TagBox["18", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Start Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
@@ -5468,7 +5472,7 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.21875`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.375`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
@@ -5476,14 +5480,14 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.203125`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.3125`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Real Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
                     TagBox[
-                    TemplateBox[{"12", "19.`5.", 
+                    TemplateBox[{"14", "0", 
                     RowBox[{"\[ThinSpace]", "\"min\""}], 
                     RowBox[{"\[ThinSpace]", "\"s\""}], "minutes,seconds", 
                     RowBox[{"{", 
@@ -5840,8 +5844,9 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
   Editable->False,
   SelectWithContents->True,
   Selectable->False]], "Output",
- CellChangeTimes->{3.8980622359293547`*^9, 3.8980628973813133`*^9},
- CellLabel->"Out[33]=",ExpressionUUID->"1fb2aeac-a057-49a9-86c6-52bf50a31688"]
+ CellChangeTimes->{3.8980622359293547`*^9, 3.8980628973813133`*^9, 
+  3.898062998828012*^9},
+ CellLabel->"Out[49]=",ExpressionUUID->"a364bd2b-4475-4a2d-b1b9-f46465eac713"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -5876,7 +5881,7 @@ transmittance(thickness,
 \>", "ExternalLanguage",
  CellEvaluationLanguage->"Python",
  CellChangeTimes->{{3.8980622429714828`*^9, 3.8980622437275033`*^9}},
- CellLabel->"In[34]:=",ExpressionUUID->"2465c4b2-d01c-43de-96c8-979a859b53dc"],
+ CellLabel->"In[50]:=",ExpressionUUID->"2465c4b2-d01c-43de-96c8-979a859b53dc"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -6406,13 +6411,13 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"91.385856`", "\"MB\"", "megabytes", 
+                    TemplateBox[{"111.169536`", "\"MB\"", "megabytes", 
                     "\"Megabytes\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Threads: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
-                    TagBox["21", "SummaryItem"]}]}, {
+                    TagBox["18", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Start Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
@@ -6437,7 +6442,7 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.21875`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.375`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
@@ -6445,14 +6450,14 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.203125`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.3125`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Real Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
                     TagBox[
-                    TemplateBox[{"12", "20.`5.", 
+                    TemplateBox[{"14", "0", 
                     RowBox[{"\[ThinSpace]", "\"min\""}], 
                     RowBox[{"\[ThinSpace]", "\"s\""}], "minutes,seconds", 
                     RowBox[{"{", 
@@ -6810,8 +6815,9 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
   Editable->False,
   SelectWithContents->True,
   Selectable->False]], "Output",
- CellChangeTimes->{3.8980622444287224`*^9, 3.898062898075203*^9},
- CellLabel->"Out[34]=",ExpressionUUID->"6b176255-66e4-4296-851c-f74fc548b547"]
+ CellChangeTimes->{3.8980622444287224`*^9, 3.898062898075203*^9, 
+  3.89806299895153*^9},
+ CellLabel->"Out[50]=",ExpressionUUID->"34e3398c-db9f-40b8-8d85-a7ab81b11515"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -6851,7 +6857,7 @@ zip(n_real_list, n_imag_list)])
 \>", "ExternalLanguage",
  CellEvaluationLanguage->"Python",
  CellChangeTimes->{{3.8980622591000586`*^9, 3.8980622600405307`*^9}},
- CellLabel->"In[35]:=",ExpressionUUID->"a711e640-4402-439c-add9-121074e86b87"],
+ CellLabel->"In[51]:=",ExpressionUUID->"a711e640-4402-439c-add9-121074e86b87"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -7381,13 +7387,13 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"91.389952`", "\"MB\"", "megabytes", 
+                    TemplateBox[{"111.169536`", "\"MB\"", "megabytes", 
                     "\"Megabytes\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Threads: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
-                    TagBox["21", "SummaryItem"]}]}, {
+                    TagBox["18", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Start Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
@@ -7412,7 +7418,7 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.21875`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.375`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
@@ -7420,14 +7426,14 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.203125`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.3125`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Real Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
                     TagBox[
-                    TemplateBox[{"12", "20.`5.", 
+                    TemplateBox[{"14", "1.`5.", 
                     RowBox[{"\[ThinSpace]", "\"min\""}], 
                     RowBox[{"\[ThinSpace]", "\"s\""}], "minutes,seconds", 
                     RowBox[{"{", 
@@ -7786,8 +7792,9 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
   Editable->False,
   SelectWithContents->True,
   Selectable->False]], "Output",
- CellChangeTimes->{3.898062260831875*^9, 3.89806289833287*^9},
- CellLabel->"Out[35]=",ExpressionUUID->"accb69ae-1dcc-4aff-8e75-4f44436587f9"]
+ CellChangeTimes->{3.898062260831875*^9, 3.89806289833287*^9, 
+  3.8980629990500493`*^9},
+ CellLabel->"Out[51]=",ExpressionUUID->"6fbc83de-4b02-4731-97f4-8e4111296314"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -7869,7 +7876,7 @@ True, False]},
 \>", "ExternalLanguage",
  CellEvaluationLanguage->"Python",
  CellChangeTimes->{{3.89806226791727*^9, 3.898062268965843*^9}},
- CellLabel->"In[36]:=",ExpressionUUID->"b0b1a647-c7fc-426d-8c3b-95b7a6afa945"],
+ CellLabel->"In[52]:=",ExpressionUUID->"b0b1a647-c7fc-426d-8c3b-95b7a6afa945"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -8391,13 +8398,13 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"91.46368`", "\"MB\"", "megabytes", 
+                    TemplateBox[{"111.177728`", "\"MB\"", "megabytes", 
                     "\"Megabytes\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Threads: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
-                    TagBox["21", "SummaryItem"]}]}, {
+                    TagBox["18", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Start Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
@@ -8422,7 +8429,7 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.21875`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.375`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
@@ -8430,14 +8437,14 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.203125`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.3125`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Real Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
                     TagBox[
-                    TemplateBox[{"12", "20.`5.", 
+                    TemplateBox[{"14", "1.`5.", 
                     RowBox[{"\[ThinSpace]", "\"min\""}], 
                     RowBox[{"\[ThinSpace]", "\"s\""}], "minutes,seconds", 
                     RowBox[{"{", 
@@ -8794,8 +8801,9 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
   Editable->False,
   SelectWithContents->True,
   Selectable->False]], "Output",
- CellChangeTimes->{3.8980622697789836`*^9, 3.8980628985417147`*^9},
- CellLabel->"Out[36]=",ExpressionUUID->"7211605d-542b-4034-9b2c-237b51da5031"]
+ CellChangeTimes->{3.8980622697789836`*^9, 3.8980628985417147`*^9, 
+  3.8980629991550856`*^9},
+ CellLabel->"Out[52]=",ExpressionUUID->"7036ac78-92c0-485e-a000-8b4df0e63e93"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -8835,7 +8843,7 @@ theta_inc 0-89 deg
 \>", "ExternalLanguage",
  CellEvaluationLanguage->"Python",
  CellChangeTimes->{{3.8980622785564127`*^9, 3.898062279415968*^9}},
- CellLabel->"In[37]:=",ExpressionUUID->"e472cf11-e1f0-4f51-a677-2a67e2d0482a"],
+ CellLabel->"In[53]:=",ExpressionUUID->"e472cf11-e1f0-4f51-a677-2a67e2d0482a"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -9365,13 +9373,13 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"91.46368`", "\"MB\"", "megabytes", 
+                    TemplateBox[{"111.177728`", "\"MB\"", "megabytes", 
                     "\"Megabytes\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Threads: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
-                    TagBox["21", "SummaryItem"]}]}, {
+                    TagBox["18", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Start Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
@@ -9396,7 +9404,7 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.21875`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.375`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
@@ -9404,14 +9412,14 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
                     "\[InvisibleSpace]", 
                     TagBox[
                     
-                    TemplateBox[{"0.203125`5.", "\"s\"", "seconds", 
+                    TemplateBox[{"0.3125`5.", "\"s\"", "seconds", 
                     "\"Seconds\""}, "Quantity", SyntaxForm -> Mod], 
                     "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox["\"Real Time: \"", "SummaryItemAnnotation"], 
                     "\[InvisibleSpace]", 
                     TagBox[
-                    TemplateBox[{"12", "21.`5.", 
+                    TemplateBox[{"14", "1.`5.", 
                     RowBox[{"\[ThinSpace]", "\"min\""}], 
                     RowBox[{"\[ThinSpace]", "\"s\""}], "minutes,seconds", 
                     RowBox[{"{", 
@@ -9771,8 +9779,8 @@ J5bl+1kLYj/QPlh8w9wD4wMA37PnHw==
   SelectWithContents->True,
   Selectable->False]], "Output",
  CellChangeTimes->{3.8980622799906855`*^9, 3.8980623318799834`*^9, 
-  3.8980628992313604`*^9},
- CellLabel->"Out[37]=",ExpressionUUID->"9349e5a5-3c48-4fb5-b4d0-163d72ebca3f"]
+  3.8980628992313604`*^9, 3.898062999249608*^9},
+ CellLabel->"Out[53]=",ExpressionUUID->"603747d3-22f0-4e32-9253-04a54399531b"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -9977,14 +9985,14 @@ interactive_box = VBox((header,
 \>", "ExternalLanguage",
  CellEvaluationLanguage->"Python",
  CellChangeTimes->{{3.898062285996367*^9, 3.898062286795903*^9}},
- CellLabel->"In[38]:=",ExpressionUUID->"aab3305c-2332-4dd6-be2b-945af424a0d1"],
+ CellLabel->"In[54]:=",ExpressionUUID->"aab3305c-2332-4dd6-be2b-945af424a0d1"],
 
 Cell[BoxData["\<\"\[RawEscape][2K\\r\[RawEscape][2K\\r\[RawEscape][2K\\r\
 \[RawEscape][2K\\r\"\>"], "Print",
- CellChangeTimes->{3.8980629003633184`*^9},
+ CellChangeTimes->{3.8980629003633184`*^9, 3.8980629993621397`*^9},
  CellLabel->
   "During evaluation of \
-In[38]:=",ExpressionUUID->"a9a52426-fa4c-4010-b7cd-f8955b56d31a"]
+In[54]:=",ExpressionUUID->"066f1fc3-2b88-485d-b35f-092b40ab5656"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -9998,7 +10006,7 @@ interactive_box
 \>", "ExternalLanguage",
  CellEvaluationLanguage->"Python",
  CellChangeTimes->{{3.89806230649564*^9, 3.8980623073940516`*^9}},
- CellLabel->"In[41]:=",ExpressionUUID->"b234937c-687a-423b-8780-39d7825fbe84"],
+ CellLabel->"In[55]:=",ExpressionUUID->"b234937c-687a-423b-8780-39d7825fbe84"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -10123,9 +10131,10 @@ Cell[BoxData[
   Editable->False,
   SelectWithContents->True,
   Selectable->False]], "Output",
- CellChangeTimes->{3.898062307872904*^9, 3.8980629004173007`*^9, 
-  3.898062930546438*^9, 3.898062973095105*^9},
- CellLabel->"Out[41]=",ExpressionUUID->"4e9ed3a5-d5a3-4a5f-b7eb-bc3d7132fea7"]
+ CellChangeTimes->{
+  3.898062307872904*^9, 3.8980629004173007`*^9, 3.898062930546438*^9, {
+   3.898062973095105*^9, 3.898063039857234*^9}},
+ CellLabel->"Out[55]=",ExpressionUUID->"3004b020-a504-427b-b1fb-54dee581049e"]
 }, Open  ]]
 },
 WindowSize->{1920, 1037},
@@ -10150,51 +10159,51 @@ Cell[558, 20, 474, 13, 214, "ExternalLanguage",ExpressionUUID->"4e884143-9daa-4b
 Cell[1035, 35, 222, 3, 35, "Input",ExpressionUUID->"b3acf91f-68d1-4bdb-ad56-044920a0f5a5"],
 Cell[CellGroupData[{
 Cell[1282, 42, 1340, 41, 675, "ExternalLanguage",ExpressionUUID->"29abfc36-cf08-4b21-9b5b-cec82ce59bbd"],
-Cell[2625, 85, 50365, 937, 79, "Output",ExpressionUUID->"e8212491-8145-4a70-972f-dfc9e09c000e"]
+Cell[2625, 85, 50389, 938, 79, "Output",ExpressionUUID->"c802e716-2829-478a-bc82-3e4010eaefba"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[53027, 1027, 985, 27, 425, "ExternalLanguage",ExpressionUUID->"4bba5db6-1a96-46b0-bbd5-db60f9395a4d"],
-Cell[54015, 1056, 50222, 930, 79, "Output",ExpressionUUID->"f4cb1de9-e6a6-4069-9ce9-8ea5535cbb3d"]
+Cell[53051, 1028, 985, 27, 425, "ExternalLanguage",ExpressionUUID->"4bba5db6-1a96-46b0-bbd5-db60f9395a4d"],
+Cell[54039, 1057, 50245, 931, 79, "Output",ExpressionUUID->"d3c64769-21da-47e3-b810-7ebb29bf792f"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[104274, 1991, 1311, 34, 540, "ExternalLanguage",ExpressionUUID->"6b834212-f4bd-4ad4-8a26-db617f18215b"],
-Cell[105588, 2027, 50172, 932, 79, "Output",ExpressionUUID->"866bb699-aaca-4605-849c-1b9328513e90"]
+Cell[104321, 1993, 1311, 34, 540, "ExternalLanguage",ExpressionUUID->"6b834212-f4bd-4ad4-8a26-db617f18215b"],
+Cell[105635, 2029, 50190, 933, 79, "Output",ExpressionUUID->"67efd3b1-89de-43ee-88bb-4cdbc28f431e"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[155797, 2964, 1042, 32, 560, "ExternalLanguage",ExpressionUUID->"1b6573b6-228a-46ca-a289-853abcb6017a"],
-Cell[156842, 2998, 50238, 934, 79, "Output",ExpressionUUID->"2997aa70-f2fd-4077-bf0a-1b64414705d2"]
+Cell[155862, 2967, 1042, 32, 560, "ExternalLanguage",ExpressionUUID->"1b6573b6-228a-46ca-a289-853abcb6017a"],
+Cell[156907, 3001, 50252, 934, 79, "Output",ExpressionUUID->"9198d356-4dee-4a4a-8c84-09516114d6e5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[207117, 3937, 700, 16, 214, "ExternalLanguage",ExpressionUUID->"65a67eb0-00c7-4408-ae02-319d1b3e5989"],
-Cell[207820, 3955, 50273, 935, 79, "Output",ExpressionUUID->"16e918b6-7305-45f9-a15f-dcfe0ebee09b"]
+Cell[207196, 3940, 700, 16, 214, "ExternalLanguage",ExpressionUUID->"65a67eb0-00c7-4408-ae02-319d1b3e5989"],
+Cell[207899, 3958, 50290, 936, 79, "Output",ExpressionUUID->"383c7995-59b1-489d-a34a-475d0dc5efb5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[258130, 4895, 850, 21, 310, "ExternalLanguage",ExpressionUUID->"3c6a2a16-36b6-41d5-b65b-36fc01e9c53b"],
-Cell[258983, 4918, 49862, 925, 77, "Output",ExpressionUUID->"1fb2aeac-a057-49a9-86c6-52bf50a31688"]
+Cell[258226, 4899, 850, 21, 310, "ExternalLanguage",ExpressionUUID->"3c6a2a16-36b6-41d5-b65b-36fc01e9c53b"],
+Cell[259079, 4922, 49879, 926, 77, "Output",ExpressionUUID->"a364bd2b-4475-4a2d-b1b9-f46465eac713"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[308882, 5848, 1252, 30, 406, "ExternalLanguage",ExpressionUUID->"2465c4b2-d01c-43de-96c8-979a859b53dc"],
-Cell[310137, 5880, 50166, 933, 79, "Output",ExpressionUUID->"6b176255-66e4-4296-851c-f74fc548b547"]
+Cell[308995, 5853, 1252, 30, 406, "ExternalLanguage",ExpressionUUID->"2465c4b2-d01c-43de-96c8-979a859b53dc"],
+Cell[310250, 5885, 50182, 934, 79, "Output",ExpressionUUID->"34e3398c-db9f-40b8-8d85-a7ab81b11515"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[360340, 6818, 1390, 35, 540, "ExternalLanguage",ExpressionUUID->"a711e640-4402-439c-add9-121074e86b87"],
-Cell[361733, 6855, 50171, 934, 79, "Output",ExpressionUUID->"accb69ae-1dcc-4aff-8e75-4f44436587f9"]
+Cell[360469, 6824, 1390, 35, 540, "ExternalLanguage",ExpressionUUID->"a711e640-4402-439c-add9-121074e86b87"],
+Cell[361862, 6861, 50194, 935, 79, "Output",ExpressionUUID->"6fbc83de-4b02-4731-97f4-8e4111296314"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[411941, 7794, 2891, 77, 1289, "ExternalLanguage",ExpressionUUID->"b0b1a647-c7fc-426d-8c3b-95b7a6afa945"],
-Cell[414835, 7873, 49830, 924, 79, "Output",ExpressionUUID->"7211605d-542b-4034-9b2c-237b51da5031"]
+Cell[412093, 7801, 2891, 77, 1289, "ExternalLanguage",ExpressionUUID->"b0b1a647-c7fc-426d-8c3b-95b7a6afa945"],
+Cell[414987, 7880, 49854, 925, 79, "Output",ExpressionUUID->"7036ac78-92c0-485e-a000-8b4df0e63e93"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[464702, 8802, 1163, 35, 598, "ExternalLanguage",ExpressionUUID->"e472cf11-e1f0-4f51-a677-2a67e2d0482a"],
-Cell[465868, 8839, 50196, 935, 79, "Output",ExpressionUUID->"9349e5a5-3c48-4fb5-b4d0-163d72ebca3f"]
+Cell[464878, 8810, 1163, 35, 598, "ExternalLanguage",ExpressionUUID->"e472cf11-e1f0-4f51-a677-2a67e2d0482a"],
+Cell[466044, 8847, 50215, 935, 79, "Output",ExpressionUUID->"603747d3-22f0-4e32-9253-04a54399531b"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[516101, 9779, 7619, 200, 3363, "ExternalLanguage",ExpressionUUID->"aab3305c-2332-4dd6-be2b-945af424a0d1"],
-Cell[523723, 9981, 257, 5, 117, "Print",ExpressionUUID->"a9a52426-fa4c-4010-b7cd-f8955b56d31a"]
+Cell[516296, 9787, 7619, 200, 3363, "ExternalLanguage",ExpressionUUID->"aab3305c-2332-4dd6-be2b-945af424a0d1"],
+Cell[523918, 9989, 281, 5, 117, "Print",ExpressionUUID->"066f1fc3-2b88-485d-b35f-092b40ab5656"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[524017, 9991, 347, 9, 137, "ExternalLanguage",ExpressionUUID->"b234937c-687a-423b-8780-39d7825fbe84"],
-Cell[524367, 10002, 5955, 125, 74, "Output",ExpressionUUID->"4e9ed3a5-d5a3-4a5f-b7eb-bc3d7132fea7"]
+Cell[524236, 9999, 347, 9, 137, "ExternalLanguage",ExpressionUUID->"b234937c-687a-423b-8780-39d7825fbe84"],
+Cell[524586, 10010, 5983, 126, 74, "Output",ExpressionUUID->"3004b020-a504-427b-b1fb-54dee581049e"]
 }, Open  ]]
 }
 ]
